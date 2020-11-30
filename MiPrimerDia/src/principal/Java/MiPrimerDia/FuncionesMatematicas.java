@@ -6,5 +6,8 @@ public class FuncionesMatematicas {
 		// TODO Auto-generated method stub
 
 	}
-
+	int a=teclado.nextInt();
+		int b= a*3;
+		System.out.println(b);
+	}
 }
